@@ -3,7 +3,7 @@
 ### Instructions
 Clone repo and install it
 ```bash
-git clone https://github.com/zou-longkun/gast.git
+git clone https://github.com/Vencoders/PCUDA-MCC.git
 cd gast
 pip install -r requirements.txt
 ```
